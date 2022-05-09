@@ -25,3 +25,13 @@ true
 1. 如果母串中有重复元素时，需要略过。
 2. 子串中如果有重复，怎么处理？
 
+
+# JAVA
+1. 如何打印boolean 值；
+```java
+        System.out.printf(String.valueOf(res));
+```
+
+
+# Todo
+1. List 与 Arrays 的区别？是不是可以方便地互换？
