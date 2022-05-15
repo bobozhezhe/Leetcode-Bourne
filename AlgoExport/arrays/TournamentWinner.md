@@ -56,4 +56,5 @@ results = [0, 0, 1]
 遍历时，查找 hashset 中是否已经存在队名，存在则加分，不存在则
 
 ## Todo
-此处用的是hashmap，与前面用的hashset 有什么区别？
+- 此处用的是hashmap，与前面用的hashset 有什么区别？
+- ArrayList 有4种初始化方式。
