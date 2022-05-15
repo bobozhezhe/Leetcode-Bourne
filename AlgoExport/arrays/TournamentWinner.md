@@ -54,3 +54,6 @@ results = [0, 0, 1]
 同时遍历 competition 和 results 数组，用hashset 存储队名字符串，用 int[] score 存储最后得分。
 
 遍历时，查找 hashset 中是否已经存在队名，存在则加分，不存在则
+
+## Todo
+此处用的是hashmap，与前面用的hashset 有什么区别？

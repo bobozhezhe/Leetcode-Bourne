@@ -1,4 +1,4 @@
-package Leetcode_Bourne.arrays;
+package Leetcode_Bourne.AlgoExport.arrays;
 
 import java.util.*;
 
